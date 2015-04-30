@@ -1,5 +1,5 @@
 {
-  "name": "highrisejs",
+  "name": "highrisejs-digger",
   "version": "0.1.0",
   "bin": {
     "highrisejs": "./bin/digger.js"
@@ -8,7 +8,6 @@
   "main": "lib/index.js",
   "dependencies": {
     "colors": "^1.0.3",
-    "express": "^4.12.3",
     "minimist": "^1.1.1",
     "shelljs": "^0.4.0"
   },
